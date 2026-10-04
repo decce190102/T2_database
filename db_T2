@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="kMLBL-4hCfiDt9adCBz-">
-    <mxGraphModel dx="1634" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
         <mxCell id="llyZJGpMrZVbg4CCCosZ-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fontSize=9;" value="&lt;font size=&quot;1&quot;&gt;fecha_contrato&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="757" y="425" as="geometry" />
         </mxCell>
-        <mxCell id="cRybLJZUBklQDGctrbdS-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fontSize=9;" value="&lt;font size=&quot;1&quot;&gt;id_pedido&lt;/font&gt;" vertex="1">
+        <mxCell id="cRybLJZUBklQDGctrbdS-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fontSize=9;fontStyle=4" value="&lt;font size=&quot;1&quot;&gt;id_pedido&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="522" y="205" as="geometry" />
         </mxCell>
         <mxCell id="cRybLJZUBklQDGctrbdS-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fontSize=9;" value="&lt;font size=&quot;1&quot;&gt;fecha&lt;/font&gt;" vertex="1">
